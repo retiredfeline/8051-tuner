@@ -1,0 +1,16 @@
+*.asm
+*.bin
+*.hlr
+*.ibn
+*.ihx
+*.lk
+*.lst
+*.map
+*.mem
+*.rel
+*.rst
+*.sym
+*.zbn
+*.adb
+*.cdb
+*.omf
