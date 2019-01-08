@@ -1,6 +1,6 @@
 # 8051 tuner
 
-This is the firmware for a [2 octave tone generator project](https://hackaday.io/project/162267-8051-tuner) published at Hackaday.
+This is the firmware for a [3 octave tone generator project](https://hackaday.io/project/162267-8051-tuner) published at Hackaday.
 
 It drives a 2 line by 16 character LCD display with an I2C interface that can be purchased in eBay for a few dollars.
 
